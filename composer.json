@@ -42,5 +42,6 @@
     "scripts-descriptions": {
         "check": "Roda os comandos cs e phan"
     },
+    "bin": "buscar-cursos",
     "license": "GPL-3.0"
 }
