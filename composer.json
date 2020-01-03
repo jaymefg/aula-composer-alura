@@ -41,5 +41,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda os comandos cs e phan"
-    }
+    },
+    "license": "GPL-3.0"
 }
